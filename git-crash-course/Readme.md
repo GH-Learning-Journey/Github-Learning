@@ -1,3 +1,12 @@
+## Cloning
+
+We can clone in 3 ways: HTTPS, SSH, Github CLI
+
+### HTTPS
+
+```sh
+git clone 
+
 ## Commits
 
 ## Branches
