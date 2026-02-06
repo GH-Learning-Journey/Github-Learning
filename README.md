@@ -1,2 +1,2 @@
 # Github-Learning
-Somehting for me to play around in as I learn GH
+Something for me to play around in as I learn GH

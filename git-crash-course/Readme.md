@@ -30,6 +30,15 @@ mk dir /workspace/tmp
 ```
 git clone https://github.com/GH-Learning-Journey/Github-Learning.git 
 
+## Cloning
+
+We can clone in 3 ways: HTTPS, SSH, Github CLI
+
+### HTTPS
+
+```sh
+git clone 
+
 ## Commits
 
 `git commit` When we want to commit code which will open up the commit edit message block in the editor of choice
